@@ -9,3 +9,5 @@
 ## Objectives
 1. To analyse the current applications of telehealth within the Nigerian nursing and healthcare practice.
 2. To assess the impact of the nursing shortage on the Nigerian healthcare system.
+3. To investigate the key factors contributing to the nursing shortage in Nigeria.
+4. To evaluate the potential of telehealth in mitigating the effects of the nursing shortage in Nigeria.
