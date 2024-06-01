@@ -26,3 +26,9 @@ solution to bridge this gap and revolutionise nursing practice in Nigeria.
 Ultimately, the goal of this study is to lay the foundation for understanding how telemedicine can potentially revolutionise nursing
 practice. It is relevant and timely, and can contribute to building a more resilient and efficient healthcare system in Nigeria — one 
 that can effectively address the growing needs of the population.
+
+
+# CURRENT APPLICATIONS OF TELEHEALTH IN HEALTHCARE
+
+With roots dating back to the 1950s, telemedicine has become a dynamic force shaping healthcare delivery on a global scale (Stoltzfus et Al., 2023). Etymologically, the word is derived from a Greek root word "tele" which means "distance.” The World Health Organization (WHO) defines telemedicine as "The delivery of health care services, where distance is a critical factor, by health care professionals using information and communications technologies for the exchange of valid information for diagnosis, treatment and prevention of disease and injuries, research and evaluation, and for the continuing education of health care providers, all in the interest of advancing the health of individuals and their communities (WHO, 1997).”
+
